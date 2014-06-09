@@ -51,6 +51,7 @@ ZSH_THEME="robbyrussell"
 plugins=(git zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
+source /opt/boxen/env.sh
 
 # User configuration
 
