@@ -101,7 +101,7 @@ if has('gui_running')
   "colorscheme base16-tomorrow
   colorscheme solarized
   set guioptions=egmrt
-  set gfn=Menlo:h14
+  set gfn=Inconsolata:h14
 endif
 
 
